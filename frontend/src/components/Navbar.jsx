@@ -35,9 +35,9 @@ export default function Navbar() {
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2">
             <div className="w-8 h-8 bg-gradient-to-r from-blue-600 to-blue-700 rounded-lg flex items-center justify-center">
-              <span className="text-white font-bold text-sm">SB</span>
+              <span className="text-white font-bold text-sm">⚽</span>
             </div>
-            <span className="text-xl font-bold text-gray-900">SportBook</span>
+            <span className="text-xl font-bold text-gray-900">Terrains Sport</span>
           </Link>
 
           {/* Desktop Menu */}

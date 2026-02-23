@@ -327,7 +327,7 @@ export default function HomePage() {
             </div>
           </div>
           <div className="border-t border-gray-700 pt-8 text-center text-gray-400">
-            <p>&copy; 2024 SportBook. All rights reserved.</p>
+            <p>&copy; 2024 Site de réservation de terrains sport. All rights reserved.</p>
           </div>
         </div>
       </footer>
